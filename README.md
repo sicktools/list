@@ -10,7 +10,9 @@
 
 ### Contributing
 
-Feel free to add a tool by creating an issue!
+Please feel free to add a tool by creating an issue!
+<br>
+When creating the issue, set the project to "JavaScript" (or the appropriate language) and attach the relevant labels.
 
 #### Issue Template
 
